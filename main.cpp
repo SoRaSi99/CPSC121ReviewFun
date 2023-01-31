@@ -1,5 +1,8 @@
 #include "vecfuncs.h" //"" a file you wrote in your project
 
+//this is a test comment
+//this is another comment
+
 int main() {
   int min, max;
   vector<int> userNums;
